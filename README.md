@@ -1,4 +1,6 @@
-# Introdução ao HTML5
+# Introdução ao HTML5 E CSS3
+
+Há exemplos básicos sobre:
 
 * HTML5 básico
 
