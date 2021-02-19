@@ -10,7 +10,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: #FAFAFA;
     margin: 0;
     padding: 0;
     display: flex;
@@ -31,7 +31,6 @@ body{
     justify-content: center;
     width: 50%;
 
-    border: 1px solid violet;
 }
 
 .image-phone img{
