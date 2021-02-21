@@ -134,3 +134,34 @@ a{
 .app-download:nth-child(2){
     background-image: url('../image/google-play.png');
 }
+
+
+@media(max-width: 1024px){
+    .content{
+        width: 90%;
+    }
+}
+
+@media(max-width: 650px){
+    body{
+        background-color: #ffffff;
+    }
+    
+    .content{
+        width: 90%;
+    }    
+
+    .image-phone{
+        display: none;
+    }
+
+    .block-login{
+        width: 100%;
+    }
+
+    .block{
+        border: 1px solid transparent;
+    }
+
+    
+}
